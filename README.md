@@ -1,2 +1,211 @@
-# general-dev-tools
-general development tools that i use, like, or want to explore
+# General-Dev-Tools
+- this is a repo that contains general development tools that i use, like, or want to explore
+- currently has two sections: 
+    1. general resources 
+    2. training and general ed 
+
+## General Resources 
+
+- Geocoding / geographical 
+    - Keplr: dd for for geocoding: https://kepler.gl/ 
+    - Pandas Moving -> https://anitagraser.github.io/movingpandas/ 
+    - GeoPandas 
+    - geopy
+    - geog (https://pypi.org/project/geog/) 
+    - Collection of python geospatial _> 
+        - https://github.com/giswqs/python-geospatial 
+        - https://ishanjain-ai.medium.com/22-python-libraries-for-geospatial-data-analysis-f498959101bf?source=userActivityShare-4726d4325967-1629049273 
+        - Analysis example -> https://towardsdatascience.com/clustering-geospatial-data-f0584f0b04ec 
+    - Article about using SingleStore https://medium.com/@VeryFatBoy/using-singlestore-as-a-geospatial-database-28ddf92684af 
+    - Enrichment of geographic data: 
+        - General data by zipcode 
+            - https://censusreporter.org/ 
+            - https://github.com/censusreporter/census-api/blob/master/API.md 
+                - Demographics
+                - Economics
+                - Families
+                - Housing
+                - Social
+                - Health insurance 
+                - Poverty (food stamps / SNAP) 
+        - Historical
+            - Weather 
+                - Historical weather data -> https://www.visualcrossing.com/weather-api 
+            - COVID 
+                - https://apidocs.covidactnow.org/#register // historical covid with state or FIP code 
+        - Disparities ->
+            - https://www.neighborhoodatlas.medicine.wisc.edu/ 
+            - https://www.countyhealthrankings.org/ 
+        - Food Environments (USDA) 
+            - https://www.ers.usda.gov/data-products/food-environment-atlas/go-to-the-atlas/ 
+- Data Storage 
+    - De-centralized cloud storage 
+        - https://www.storj.io/ 
+            - Very cool - I would want to do this for encrypting messages in future 
+- AWS specific  / labs 
+    - Data Wrangler - https://github.com/awslabs/aws-data-wrangler 
+    - Labs-  https://github.com/awslabs 
+- Diagrams:
+    - AWS diagram creator https://alanblackmore.medium.com/aws-diagram-creator-8f596052952c 
+- Data Lineage 
+    - Pachyderm - Pachyderm 
+- Data management 
+    - Dataframe.ai - https://josephmoon.medium.com/dataframe-ai-a-comprehensive-data-context-management-tool-for-modern-data-teams-df47c8a1ce17 (dataframe.ai) 
+        - Have also built a search-like tool called WHALE -> https://github.com/hyperqueryhq/whale 
+    - Data Catalogs 
+        - Good comparison - - data hub / atlas / amunddsen -> https://medium.com/@gosin/finding-the-right-data-catalog-solution-a265a4b3c0c3 
+        - https://medium.com/hipay-tech/setting-up-a-data-discovery-tool-why-and-which-solution-to-choose-5e03fcbed458 
+        - Open Meta Data (https://blog.open-metadata.org/openmetadata-0-8-0-release-ca09bd2fbf54) 
+- Authorization 
+    - Authorizer - https://medium.com/@SamaniLakhan/introducing-authorizer-9b89edb810fd 
+- Automation
+    - Airflow 
+- Notebook tools 
+    - Hex // https://github.com/louislam/uptime-kuma 
+    - Deepnote // 
+    - PolyNote - https://medium.com/dataseries/netflixs-polynote-is-a-new-open-source-framework-to-build-better-data-science-notebooks-4bdab6b8d0ae 
+    - Resources / collections: 
+        - https://github.com/ml-tooling/best-of-jupyter#notebook-environments 
+- Statistics and Data Manipulation
+    - Summary Statistics - Python Sidecar - https://levelup.gitconnected.com/sidetable-an-efficient-tool-to-summarize-pandas-dataframe-330958528a82 
+    - Dates 
+        - Holidays / etc… https://danilzherebtsov.medium.com/ultimate-python-dateparser-with-holidays-paydays-and-all-the-good-stuff-fffe270a236 
+            - https://verstack.readthedocs.io/en/latest/#dateparser 
+    - Timeseries
+        - https://unit8co.github.io/darts/index.html / Darts 
+- Visualization 
+    - Superset 
+    - Streamlit 
+- Low Code / No code
+    - Backend
+        - Supabase
+        - Parse - https://parseplatform.org/ 
+        - Appwrite - https://appwrite.io/ 
+        - Nhost - https://nhost.io 
+        - Hasura 
+    - Frontend
+        - AppGyver 
+- Data bases DBs
+    - Modern:
+        - FaunaDB - https://medium.com/codesphere-cloud/is-faunadb-the-next-big-database-technology-4c5a67915d6e  
+        - SingleStore - https://www.singlestore.com 
+        - Apache Druid / would view this as a competitor to SingleStore - https://druid.apache.org/ 
+        - RethinkDB - live DB - https://rethinkdb.com 
+        - Firebase 
+        - DyanmoDB 
+- Frontend - Styles 
+    - Fonts / Styles
+        - https://medium.com/@anthonyjdella/why-you-should-use-a-developer-font-b19d5269d767
+    - Examples of good stuff 
+        - https://www.reallygoodux.io 
+- Opensource alternatives:
+    - Airflow: 
+        - https://nocodb.com 
+        - More airflow like ones -> https://medium.com/swlh/top-3-low-and-no-code-databases-for-creative-entrepreneurs-b10f069c36b3 
+    - Calendly: 
+        - https://cal.com 
+- Documentation
+    - Docusaurus - https://docusaurus.io 
+    - Docz - https://www.docz.site       
+- UUID - url friendly
+    - https://javascript.plainenglish.io/introducing-a-url-friendly-unique-identifier-nanoid-fbf4d2162322 
+- Search tools: 
+    - Meili search tool 
+    - Typesense https://typesense.org/ 
+    - DeepHaven - https://deephaven.io  
+    - Elastic search - https://diawahad.medium.com/elasticsearch-the-open-source-distributed-restful-json-based-search-engine-ready-for-the-big-640430fd655b 
+- Testing
+    - Chaos Engineering 
+        - https://www.gremlin.com/product/ 
+- Monitoring tools 
+    - Uptime Kuma - https://github.com/louislam/uptime-kuma 
+- Security
+    - Cloud checks
+        - Scout Suite (cloud specific) 
+    - Identity management
+        - https://www.strongdm.com 
+    - Secrets management
+        - Doppler - https://www.doppler.com 
+        - Vault 
+    - Dealing with multi-cloud account / going back and forth 
+        - https://www.leapp.cloud/ // https://github.com/Noovolari/leapp 
+- IAAS:
+    - Pulumi 
+        - https://betterprogramming.pub/pulumi-a-true-infrastructure-as-code-paradigm-ac07c530e219 
+    - Terraform related tools: 
+        - Infracost // https://github.com/infracost/infracost 
+        - Brainbooard - automatically create terraform // https://www.brainboard.co/ 
+        - Checkgov - Checkov - looks for config errors 
+- Data stacks 
+    - Article - https://www.datafold.com/blog/the-modern-data-stack-open-source-edition 
+    - Github - good list - > https://github.com/victorcouste/data-tools#ingestion 
+- Webscraping 
+    - Stealth: 
+        - https://uxdesign.cc/stealth-web-scraping-in-python-avoid-blocking-like-a-ninja-8cb76db119ae 
+- Kubernet tools 
+    - Helm - Helm
+    - Knative - https://knative.dev/docs/ 
+    - Kubeflow - Kubeflow 
+    - Crossplane - https://crossplane.io 
+- ML
+    - Labeling tool
+        - https://labelstud.io 
+        - https://dataneuron.ai/product 
+    - Explainable 
+        - https://github.com/MAIF/shapash 
+    - Features
+        - Feather: https://github.com/linkedin/feathr 
+    - NLP 
+        - Spacy 
+        - NER annotation - https://github.com/vopani/waveton/tree/main/apps/data_apps/ner_annotation 
+    - NLP + Science Journals 
+        - Pubmed Analysis - https://github.com/bepnye/EBM-NLP 
+        - Taking articles and converting to JSON - > https://github.com/allenai/s2orc-doc2json 
+    - Premade ML/AI 
+        - https://huggingface.co/ 
+        - https://cloud.blobcity.com/code/explore 
+        - https://github.com/trekhleb/homemade-machine-learning 
+        - https://modelzoo.co/ 
+        - Speech and audio: https://github.com/balavenkatesh3322/audio-pretrained-model 
+            - NLP: https://github.com/balavenkatesh3322/NLP-pretrained-model 
+            - CV: https://github.com/balavenkatesh3322/CV-pretrained-model 
+    - AutoML
+        - https://auto.gluon.ai/stable/index.html 
+        - http://epistasislab.github.io/tpot/ 
+
+
+
+- Datasets for testing: 
+	- https://towardsdatascience.com/data-repositories-for-almost-every-type-of-data-science-project-7aa2f98128b 
+
+- Free Cloud Resources 
+    - ORACLE - https://www.oracle.com/cloud/free/#always-free  
+    - VERCEL - has always free 
+    - HEROKU 
+
+## Training and General Ed
+
+- Training and learning stuff: 
+    - Quick read on architecture -> https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2 
+    - ML learning with scikit learn: https://courses.dataschool.io/introduction-to-machine-learning-with-scikit-learn 
+    - More Ai Visual Exapmle -> http://www.r2d3.us/visual-intro-to-machine-learning-part-1/ 
+    - Ml fun example -> https://medium.com/mlearning-ai/if-i-buy-a-diaper-i-will-surely-pick-up-a-beer-e692895a0c65 
+    - SSL Tunneling -> https://goteleport.com/blog/ssh-tunneling-explained/ 
+    - Stanford Ml systems -> https://stanford-cs329s.github.io/syllabus.html 
+    - Explainable Ai -> https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/ 
+    - ML cheatsheet - https://github.com/soulmachine/machine-learning-cheat-sheet 
+    - Kaggle Allstar book: https://github.com/abhishekkrthakur/approachingalmost 
+    - MIT - Assortment of tools / instructions; https://github.com/shervinea/mit-15-003-data-science-tools 
+    - Powerful python: https://powerfulpython.com/bootcamp/  
+    - Interpretable ML: https://christophm.github.io/interpretable-ml-book/index.html 
+    - Resource of resources: https://www.linkedin.com/posts/vipulppatel_ultimate-guide-to-ai-data-science-machine-activity-6860243081434828800--w_7 
+    - Udemy course I like: https://www.udemy.com/user/kirilleremenko/ 
+    - Sql training - forget what I found this: 
+        - SQL Fiddle - a playground environment that let’s you create tables and run SQL queries in the browser 	(http://sqlfiddle.com/)
+        - SQL Bolt - An interactive tutorial great for beginners (https://sqlbolt.com/)
+        - Select Star SQL - An interactive tutorial (https://selectstarsql.com/)
+        - SQL Murder Mystery - For intermediate/advanced SQL. Solve a murder mystery by running SQL queries (https://lnkd.in/en3-VnT9)
+        - SQL Indexing for Devs - Indexing is an important concept for making SQL queries more efficient. This blog series provides a good introduction (https://lnkd.in/egBCqJPa)
+        - SQL Zoo - Another interactive tutorial (https://lnkd.in/eeGAxE7q)
+        - The SQL Tutorial for Data Analysis - Another great tutorial that segments topics by beginner, intermediate, and advanced (https://lnkd.in/eUq7VvMp)
+
