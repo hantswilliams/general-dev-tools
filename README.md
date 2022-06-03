@@ -38,6 +38,12 @@
             - https://www.countyhealthrankings.org/ 
         - Food Environments (USDA) 
             - https://www.ers.usda.gov/data-products/food-environment-atlas/go-to-the-atlas/ 
+        - Food Retail Stores 
+            - Example NY -> https://catalog.data.gov/ne/dataset/retail-food-stores 
+	- Regulated Angencies 
+	    - https://www.ttb.gov/ (wine, alcohol, fuel, guns, etc...) 
+	    - Examples: 
+	    	- Washington DC liquer -> https://opendata.dc.gov/datasets/liquor-licenses/explore?location=38.902497%2C-77.008884%2C12.73 
 - Data Storage 
     - De-centralized cloud storage 
         - https://www.storj.io/ 
