@@ -161,6 +161,8 @@
         - https://dataneuron.ai/product 
     - Explainable 
         - https://github.com/MAIF/shapash 
+    - Forecasting 
+        - https://github.com/Nixtla/neuralforecast
     - Features
         - Feather: https://github.com/linkedin/feathr 
     - NLP 
@@ -182,7 +184,12 @@
     - AutoML
         - https://auto.gluon.ai/stable/index.html 
         - http://epistasislab.github.io/tpot/ 
-
+    - Recommendation 
+        - Microsoft best practices - https://github.com/microsoft/recommenders
+        - Suprise - http://surpriselib.com/
+        - Collaborative
+            - Good walkthrough of collaborative - https://sunjackson.github.io/2016/05/30/3cca3bba88363e21bbe6e536e4178018/ 
+            - https://github.com/benfred/implicit
     - Computer Vision
     	- Text to Pictures -> https://github.com/lucidrains/DALLE2-pytorch
     	- Image augmentation (FB) -> https://github.com/facebookresearch/AugLy 
