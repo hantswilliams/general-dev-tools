@@ -79,6 +79,8 @@
             - https://verstack.readthedocs.io/en/latest/#dateparser 
     - Timeseries
         - https://unit8co.github.io/darts/index.html / Darts 
+    - Pinguin - stats - https://github.com/raphaelvallat/pingouin 
+
 - Visualization 
     - Superset 
     - Streamlit 
@@ -167,6 +169,8 @@
     - NLP + Science Journals 
         - Pubmed Analysis - https://github.com/bepnye/EBM-NLP 
         - Taking articles and converting to JSON - > https://github.com/allenai/s2orc-doc2json 
+        - Similarities across papers - https://github.com/stephenleo/stripnet 
+        - Analyze PDFs -> tables, figures, etc... = https://github.com/Layout-Parser/layout-parser
     - Premade ML/AI 
         - https://huggingface.co/ 
         - https://cloud.blobcity.com/code/explore 
@@ -178,6 +182,13 @@
     - AutoML
         - https://auto.gluon.ai/stable/index.html 
         - http://epistasislab.github.io/tpot/ 
+
+    - Computer Vision
+    	- Text to Pictures -> https://github.com/lucidrains/DALLE2-pytorch
+    	- Image augmentation (FB) -> https://github.com/facebookresearch/AugLy 
+    	- Bunch of random faces for training -> https://github.com/microsoft/FaceSynthetics 
+    	- Simple facial recognition -> https://github.com/ageitgey/face_recognition 
+    	- Real time tracking -> https://github.com/tryolabs/norfair 
 
 
 
