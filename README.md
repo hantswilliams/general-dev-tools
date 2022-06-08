@@ -84,6 +84,7 @@
 - Visualization 
     - Superset 
     - Streamlit 
+        - Streamlit with Sweetviz - https://discuss.streamlit.io/t/this-is-how-to-use-sweetviz-with-streamlit/10897 
 - Low Code / No code
     - Backend
         - Supabase
@@ -159,8 +160,13 @@
     - Labeling tool
         - https://labelstud.io 
         - https://dataneuron.ai/product 
+    - Bias 
+        - https://github.com/dreji18/Fairness-in-AI
+    - Scary Usecases 
+        - https://github.com/daviddao/awful-ai 
     - Explainable 
         - https://github.com/MAIF/shapash 
+        - https://github.com/oegedijk/explainerdashboard
     - Forecasting 
         - https://github.com/Nixtla/neuralforecast
     - Features
@@ -184,6 +190,7 @@
     - AutoML
         - https://auto.gluon.ai/stable/index.html 
         - http://epistasislab.github.io/tpot/ 
+        - https://github.com/mljar/mljar-supervised 
     - Recommendation 
         - Microsoft best practices - https://github.com/microsoft/recommenders
         - Suprise - http://surpriselib.com/
