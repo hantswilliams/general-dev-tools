@@ -35,8 +35,9 @@
                 - Historical weather data -> https://www.visualcrossing.com/weather-api 
             - COVID 
                 - https://apidocs.covidactnow.org/#register // historical covid with state or FIP code 
-        - Disparities ->
+        - Health + Disparities ->
             - https://www.neighborhoodatlas.medicine.wisc.edu/ 
+                - Created my own github repo for easy access to data files: https://github.com/hantswilliams/countyhealthrankings
             - https://www.countyhealthrankings.org/ 
         - Food Environments (USDA) 
             - https://www.ers.usda.gov/data-products/food-environment-atlas/go-to-the-atlas/ 
