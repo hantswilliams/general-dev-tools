@@ -19,6 +19,7 @@
     - Article about using SingleStore https://medium.com/@VeryFatBoy/using-singlestore-as-a-geospatial-database-28ddf92684af 
     - Enrichment of geographic data: 
         - General data by zipcode 
+            - zipcode / zcta / judicial crosswalk for ACS data: https://github.com/censusreporter/acs-aggregate/tree/master/crosswalks 
             - https://censusreporter.org/ 
             - https://github.com/censusreporter/census-api/blob/master/API.md 
                 - Demographics
