@@ -20,6 +20,7 @@
     - Enrichment of geographic data: 
         - General data by zipcode 
             - zipcode / zcta / judicial crosswalk for ACS data: https://github.com/censusreporter/acs-aggregate/tree/master/crosswalks 
+            - zipcode to FIPS crosswalk: https://www.huduser.gov/portal/datasets/usps_crosswalk.html (select `ZIP-COUNT` in dropdown) 
             - https://censusreporter.org/ 
             - https://github.com/censusreporter/census-api/blob/master/API.md 
                 - Demographics
