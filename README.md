@@ -160,6 +160,8 @@
     - Kubeflow - Kubeflow 
     - Crossplane - https://crossplane.io 
 - ML
+    - Cheat sheet 
+    	- https://github.com/afshinea/stanford-cs-229-machine-learning
     - Labeling tool
         - https://labelstud.io 
         - https://dataneuron.ai/product 
@@ -194,6 +196,7 @@
         - https://auto.gluon.ai/stable/index.html 
         - http://epistasislab.github.io/tpot/ 
         - https://github.com/mljar/mljar-supervised 
+        - AWS solution - AWS Sagemaker Autopilot - https://aws.amazon.com/sagemaker/autopilot/
     - Recommendation 
         - Microsoft best practices - https://github.com/microsoft/recommenders
         - Suprise - http://surpriselib.com/
@@ -206,7 +209,19 @@
     	- Bunch of random faces for training -> https://github.com/microsoft/FaceSynthetics 
     	- Simple facial recognition -> https://github.com/ageitgey/face_recognition 
     	- Real time tracking -> https://github.com/tryolabs/norfair 
-
+     - Github - `Awesome` ML repos  
+     	- General ML - https://github.com/EthicalML/awesome-production-machine-learning 
+     	 
+     	- General jupyter resources 1 - https://github.com/markusschanta/awesome-jupyter
+     	- General jupyter resources 2 - https://github.com/ml-tooling/best-of-jupyter
+     - Notebook examples 
+     	- General Notebooks/starter templates (GoogleSheets,Airtable,Sendgrid,Slack,etc..) https://github.com/jupyter-naas/awesome-notebooks 
+     	- https://github.com/trekhleb/homemade-machine-learning
+     	- https://github.com/lazyprogrammer/machine_learning_examples
+     	- https://github.com/susanli2016/Machine-Learning-with-Python
+     	- Tensorflow -- https://github.com/aymericdamien/TensorFlow-Examples
+     	- Pytorch -- https://github.com/pytorch/examples 
+     	- AWS sagemaker examples -- https://github.com/aws/amazon-sagemaker-examples
 
 
 - Datasets for testing: 
