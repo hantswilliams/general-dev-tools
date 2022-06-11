@@ -54,6 +54,8 @@
 - AWS specific  / labs 
     - Data Wrangler - https://github.com/awslabs/aws-data-wrangler 
     - Labs-  https://github.com/awslabs 
+- Deployement 
+    - Quick deployment of localhost test -> https://ngrok.com/ 
 - Diagrams:
     - AWS diagram creator https://alanblackmore.medium.com/aws-diagram-creator-8f596052952c 
 - Data Lineage 
