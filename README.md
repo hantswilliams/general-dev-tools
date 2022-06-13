@@ -237,6 +237,7 @@
 ## Training and General Ed
 
 - Training and learning stuff: 
+    - Arch design / good book - https://bytebytego.com/ - system design the big archcive - https://media-exp2.licdn.com/dms/document/C561FAQHBrAeW02s_yw/feedshare-document-pdf-analyzed/0/1655057292746?e=1655942400&v=beta&t=PhyXPS-R-LcFIPYLrkfgiEXoiLKxNhSwIRg2nlClaSA  
     - Quick read on architecture -> https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2 
     - ML learning with scikit learn: https://courses.dataschool.io/introduction-to-machine-learning-with-scikit-learn 
     - More Ai Visual Exapmle -> http://www.r2d3.us/visual-intro-to-machine-learning-part-1/ 
