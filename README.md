@@ -143,6 +143,21 @@
         - Vault 
     - Dealing with multi-cloud account / going back and forth 
         - https://www.leapp.cloud/ // https://github.com/Noovolari/leapp 
+    - Pen testing 
+    	- Metasploit (now managed by rapid7) - https://GitHub.com/rapid7/metasploit-framework 
+    	- VM hackable/volunerable machine testing - metasploitable - https://github.com/rapid7/metasploitable3 
+    	- Onion browser - https://github.com/OnionBrowser/OnionBrowser 
+    	- python based 
+    		- https://github.com/brinhosa/awesome-pentest-tools-in-colab
+    		- https://github.com/dloss/python-pentest-tools
+    	- non-python based 
+    		- https://github.com/enaqx/awesome-pentest (most starred) 
+		- https://github.com/coreb1t/awesome-pentest-cheat-sheets 
+		- https://github.com/jesusprubio/awesome-nodejs-pentest
+		- https://github.com/CyberSecurityUP/Awesome-Cloud-PenTest
+		- https://github.com/CyberSecurityUP/Awesome-PenTest-Practice
+
+
 - IAAS:
     - Pulumi 
         - https://betterprogramming.pub/pulumi-a-true-infrastructure-as-code-paradigm-ac07c530e219 
@@ -186,6 +201,7 @@
         - Taking articles and converting to JSON - > https://github.com/allenai/s2orc-doc2json 
         - Similarities across papers - https://github.com/stephenleo/stripnet 
         - Analyze PDFs -> tables, figures, etc... = https://github.com/Layout-Parser/layout-parser
+        - NLP with graph and human search - https://github.com/boopalanjayaraman/athena  - https://www.tigergraph.com/graph-for-all/winners/third-place-most-impactful/
     - Premade ML/AI 
         - https://huggingface.co/ 
         - https://cloud.blobcity.com/code/explore 
