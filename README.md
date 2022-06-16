@@ -232,6 +232,7 @@
      	 
      	- General jupyter resources 1 - https://github.com/markusschanta/awesome-jupyter
      	- General jupyter resources 2 - https://github.com/ml-tooling/best-of-jupyter
+     	- Deep learning (fakes, audio video, pose, etc...) - https://github.com/tugstugi/dl-colab-notebooks 
      - Notebook examples 
      	- General Notebooks/starter templates (GoogleSheets,Airtable,Sendgrid,Slack,etc..) https://github.com/jupyter-naas/awesome-notebooks 
      	- https://github.com/trekhleb/homemade-machine-learning
