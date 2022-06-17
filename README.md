@@ -189,6 +189,7 @@
     - Explainable 
         - https://github.com/MAIF/shapash 
         - https://github.com/oegedijk/explainerdashboard
+        - https://github.com/SelfExplainML/PiML-Toolbox
     - Forecasting 
         - https://github.com/Nixtla/neuralforecast
     - Features
