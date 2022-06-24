@@ -51,6 +51,8 @@
     - De-centralized cloud storage 
         - https://www.storj.io/ 
             - Very cool - I would want to do this for encrypting messages in future 
+    - Data reading/writing made easy (GCP, Azure, AWS -> ) 
+    	- SMart open - https://github.com/RaRe-Technologies/smart_open 
 - AWS specific  / labs 
     - Data Wrangler - https://github.com/awslabs/aws-data-wrangler 
     - Labs-  https://github.com/awslabs 
