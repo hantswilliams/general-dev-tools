@@ -230,6 +230,7 @@
     	- Bunch of random faces for training -> https://github.com/microsoft/FaceSynthetics 
     	- Simple facial recognition -> https://github.com/ageitgey/face_recognition 
     	- Real time tracking -> https://github.com/tryolabs/norfair 
+    	- Item tracking --> DEEPSORT --> https://learnopencv.com/understanding-multiple-object-tracking-using-deepsort/ 
      - Github - `Awesome` ML repos  
      	- General ML - https://github.com/EthicalML/awesome-production-machine-learning 
      	 
