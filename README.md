@@ -179,6 +179,9 @@
     - Kubeflow - Kubeflow 
     - Crossplane - https://crossplane.io 
 - ML
+    - Primary: tensorflow (google) 
+    - Primary: pyTorch (facebook)
+    	- https://github.com/pytorch/pytorch 
     - Cheat sheet 
     	- https://github.com/afshinea/stanford-cs-229-machine-learning
     - Labeling tool
@@ -196,6 +199,8 @@
         - https://github.com/Nixtla/neuralforecast
     - Features
         - Feather: https://github.com/linkedin/feathr 
+    - NLP - langauge translation 
+    	- meta open source FairSeq: https://github.com/facebookresearch/fairseq/tree/nllb 
     - NLP 
         - Spacy 
         - NER annotation - https://github.com/vopani/waveton/tree/main/apps/data_apps/ner_annotation 
