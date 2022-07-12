@@ -62,19 +62,19 @@
     - AWS diagram creator https://alanblackmore.medium.com/aws-diagram-creator-8f596052952c 
 - Data 
     - Onboarding and Ingestion (ETL/ELT)  
-	- Flatfile Data Onboarding platform // https://flatfile.io/
-	- Fivetran Cloud data integration platform // https://fivetran.com/
-	- Matillion Cloud data integration platform 
-	- Apache Gobblin Open Source distributed data integration framework
-	- Singer "Open Source standard for writing scripts that move data" // https://www.singer.io/
-	- Meltano Open Source ELT for the DataOps
-	- Airbyte Open Source data integration platform // https://airbyte.io/
-	- Stitch Simple, extensible Cloud ETL platform (Talend) // https://www.stitchdata.com/
-	- Hevo No-code data pipeline as a service
-	- Apache Hop Open Source data integration platform project
-	- Meroxa Real-time data ingestion infrastructure
-	- Portable Cloud Hosted ELT Platform
-	- Talend, StreamSets, Alooma (Google), Xplenty, Striim, Panoply, Stambia, HVR
+        - Flatfile Data Onboarding platform // https://flatfile.io/
+        - Fivetran Cloud data integration platform // https://fivetran.com/
+        - Matillion Cloud data integration platform 
+        - Apache Gobblin Open Source distributed data integration framework
+        - Singer "Open Source standard for writing scripts that move data" // https://www.singer.io/
+        - Meltano Open Source ELT for the DataOps
+        - Airbyte Open Source data integration platform // https://airbyte.io/
+        - Stitch Simple, extensible Cloud ETL platform (Talend) // https://www.stitchdata.com/
+        - Hevo No-code data pipeline as a service
+        - Apache Hop Open Source data integration platform project
+        - Meroxa Real-time data ingestion infrastructure
+        - Portable Cloud Hosted ELT Platform
+        - Talend, StreamSets, Alooma (Google), Xplenty, Striim, Panoply, Stambia, HVR
     - Transformations
     	- dbt -> transformations / https://www.getdbt.com/ 
 	- apache beam 
