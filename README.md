@@ -60,10 +60,28 @@
     - Quick deployment of localhost test -> https://ngrok.com/ 
 - Diagrams:
     - AWS diagram creator https://alanblackmore.medium.com/aws-diagram-creator-8f596052952c 
-- Data Lineage 
-    - Pachyderm - Pachyderm 
-- Data management 
-    - Dataframe.ai - https://josephmoon.medium.com/dataframe-ai-a-comprehensive-data-context-management-tool-for-modern-data-teams-df47c8a1ce17 (dataframe.ai) 
+- Data 
+    - Onboarding and Ingestion (ETL/ELT)  
+	- Flatfile Data Onboarding platform // https://flatfile.io/
+	- Fivetran Cloud data integration platform // https://fivetran.com/
+	- Matillion Cloud data integration platform 
+	- Apache Gobblin Open Source distributed data integration framework
+	- Singer "Open Source standard for writing scripts that move data" // https://www.singer.io/
+	- Meltano Open Source ELT for the DataOps
+	- Airbyte Open Source data integration platform // https://airbyte.io/
+	- Stitch Simple, extensible Cloud ETL platform (Talend) // https://www.stitchdata.com/
+	- Hevo No-code data pipeline as a service
+	- Apache Hop Open Source data integration platform project
+	- Meroxa Real-time data ingestion infrastructure
+	- Portable Cloud Hosted ELT Platform
+	- Talend, StreamSets, Alooma (Google), Xplenty, Striim, Panoply, Stambia, HVR
+    - Transformations
+    	- dbt -> transformations / https://www.getdbt.com/ 
+	- apache beam 
+    - Data Lineage 
+    	- Pachyderm - Pachyderm 
+    - Data management 
+    	- Dataframe.ai - https://josephmoon.medium.com/dataframe-ai-a-comprehensive-data-context-management-tool-for-modern-data-teams-df47c8a1ce17 (dataframe.ai) 
         - Have also built a search-like tool called WHALE -> https://github.com/hyperqueryhq/whale 
     - Data Catalogs 
         - Good comparison - - data hub / atlas / amunddsen -> https://medium.com/@gosin/finding-the-right-data-catalog-solution-a265a4b3c0c3 
