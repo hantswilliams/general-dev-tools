@@ -100,8 +100,8 @@
     	- Typing biometric - https://www.typingdna.com/ 
     - Scheduling 
     	- https://onsched.com/ 
-	- https://www.timekit.io/ 
-	- https://www.vyte.in/en/scheduling-api 
+    	- https://www.timekit.io/ 
+    	- https://www.vyte.in/en/scheduling-api 
     - Speech/NLP 
     	- https://www.assemblyai.com/
     - Food 
@@ -110,7 +110,10 @@
     	- https://newsapi.org/ 
     - Signatures 
     	- https://www.concordnow.com/ 
-
+- Frontend 
+    - Multi-deployment 
+    	- flutter: https://flutter.dev/ 
+        - flutterflow - https://flutterflow.io/ 
 - Authorization 
     - Authorizer - https://medium.com/@SamaniLakhan/introducing-authorizer-9b89edb810fd 
 - Automation
