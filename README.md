@@ -88,6 +88,9 @@
         - https://medium.com/hipay-tech/setting-up-a-data-discovery-tool-why-and-which-solution-to-choose-5e03fcbed458 
         - Open Meta Data (https://blog.open-metadata.org/openmetadata-0-8-0-release-ca09bd2fbf54) 
 - APIs 
+    - Multiple/APIs services (get multiple) 
+    	- https://m3o.com/ 
+    	- Communication focused: https://www.nylas.com/ 
     - Scheduling 
     	- https://onsched.com/ 
 	- https://www.timekit.io/ 
