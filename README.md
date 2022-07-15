@@ -87,6 +87,11 @@
         - Good comparison - - data hub / atlas / amunddsen -> https://medium.com/@gosin/finding-the-right-data-catalog-solution-a265a4b3c0c3 
         - https://medium.com/hipay-tech/setting-up-a-data-discovery-tool-why-and-which-solution-to-choose-5e03fcbed458 
         - Open Meta Data (https://blog.open-metadata.org/openmetadata-0-8-0-release-ca09bd2fbf54) 
+- APIs 
+    - Scheduling 
+    	- https://onsched.com/ 
+	- https://www.timekit.io/ 
+	- https://www.vyte.in/en/scheduling-api 
 - Authorization 
     - Authorizer - https://medium.com/@SamaniLakhan/introducing-authorizer-9b89edb810fd 
 - Automation
@@ -117,6 +122,7 @@
         - Appwrite - https://appwrite.io/ 
         - Nhost - https://nhost.io 
         - Hasura 
+	- Pocketbase - https://github.com/pocketbase/pocketbase
     - Frontend
         - AppGyver 
 - Data bases DBs
@@ -207,6 +213,8 @@
         - https://dataneuron.ai/product 
     - Bias 
         - https://github.com/dreji18/Fairness-in-AI
+    - Drift/Monitoring 
+        - https://www.nannyml.com/ 
     - Scary Usecases 
         - https://github.com/daviddao/awful-ai 
     - Explainable 
