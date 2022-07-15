@@ -89,12 +89,28 @@
         - Open Meta Data (https://blog.open-metadata.org/openmetadata-0-8-0-release-ca09bd2fbf54) 
 - APIs 
     - Multiple/APIs services (get multiple) 
+        - Public API search (new): https://publicapis.sznm.dev/ 
+        - https://listt.xyz/
     	- https://m3o.com/ 
     	- Communication focused: https://www.nylas.com/ 
+    - Payments 
+    	- Stripe Connect - https://stripe.com/connect 
+    	- Stripe Payment Link - https://stripe.com/payments/payment-links 
+    - Security 
+    	- Typing biometric - https://www.typingdna.com/ 
     - Scheduling 
     	- https://onsched.com/ 
 	- https://www.timekit.io/ 
 	- https://www.vyte.in/en/scheduling-api 
+    - Speech/NLP 
+    	- https://www.assemblyai.com/
+    - Food 
+    	- https://chompthis.com/api/
+    - News 
+    	- https://newsapi.org/ 
+    - Signatures 
+    	- https://www.concordnow.com/ 
+
 - Authorization 
     - Authorizer - https://medium.com/@SamaniLakhan/introducing-authorizer-9b89edb810fd 
 - Automation
