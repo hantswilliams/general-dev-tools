@@ -132,7 +132,9 @@
     - Timeseries
         - https://unit8co.github.io/darts/index.html / Darts 
     - Pinguin - stats - https://github.com/raphaelvallat/pingouin 
-
+- Linux 
+    - Command cheetsheets
+    	- xmind: https://www.xmind.net/m/WwtB/
 - Visualization 
     - Superset 
     - Streamlit 
