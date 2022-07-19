@@ -286,6 +286,11 @@
     	- Simple facial recognition -> https://github.com/ageitgey/face_recognition 
     	- Real time tracking -> https://github.com/tryolabs/norfair 
     	- Item tracking --> DEEPSORT --> https://learnopencv.com/understanding-multiple-object-tracking-using-deepsort/ 
+    	- Digital Cloning Examples 
+    		- Toolkit: https://github.com/titanlambda/identity-cloning-toolkit-ICT 
+    		- Voice cloning: https://github.com/CorentinJ/Real-Time-Voice-Cloning
+    		- Voice cloning: https://github.com/BenAAndrew/Voice-Cloning-App
+    		- Paid service: https://www.synthesia.io/
      - Github - `Awesome` ML repos  
      	- General ML - https://github.com/EthicalML/awesome-production-machine-learning 
      	 
