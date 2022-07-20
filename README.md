@@ -344,14 +344,20 @@
 
     - Python Basics / Intro level 
     	- Official Python: https://bugs.python.org/file47781/Tutorial_EDIT.pdf
-    	- Stanford: https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1206/lectures/4-Variables/4-Variables.pdf
-    	- Stanford: https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/readings/python-review.pdf
-    	- Stanford: https://stanfordpython.com/#/lectures
-    	- Stanford: https://stanfordpython.com/lecture/lecture-2-full.pdf 
-    	- UCSF: https://www.library.ucsf.edu/ask-an-expert/data-science/programming/
+    	- Stanford: 
+    		- https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1206/lectures/4-Variables/4-Variables.pdf
+		- https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/readings/python-review.pdf
+		- https://stanfordpython.com/#/lectures
+		- Stanford: https://stanfordpython.com/lecture/lecture-2-full.pdf 
+    	- Harvard: 
+    		- http://tdc-www.harvard.edu/Python.pdf
+    	- UCSF: 
+    		- https://www.library.ucsf.edu/ask-an-expert/data-science/programming/
     		- Python: https://swcarpentry.github.io/python-novice-inflammation/
-    	- ECU: https://ofe.ecu.edu/wp-content/pv-uploads/sites/277/2021/05/Python_intro_2021OFE.pdf
-    	- Duke: https://courses.cs.duke.edu/compsci260/fall14/resources/python.tutorial.1.2014.pdf
+    	- ECU: 
+    		- https://ofe.ecu.edu/wp-content/pv-uploads/sites/277/2021/05/Python_intro_2021OFE.pdf
+    	- Duke: 
+    		- https://courses.cs.duke.edu/compsci260/fall14/resources/python.tutorial.1.2014.pdf
     	- Emertxe Information Technologies: https://www.slideshare.net/EmertxeSlides/presentations/5
     		- Datatypes: https://www.slideshare.net/EmertxeSlides/python-data-types 
 
