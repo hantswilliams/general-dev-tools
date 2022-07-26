@@ -161,8 +161,16 @@
     - Hants Ordering: 
         - Free: 
             - https://nextacular.co/
+                - Billing: Stripe 
+                - Documentation: Limited // work in progress // https://docs.nextacular.co/
+                - Deployment: vercel (auto SSL) 
+                - Databases: only relational (SQL/PostgreSQL/Aurora) 
                 - Pros: multi-domain; DB -> relational; teams + workspaces; strip; tailwind; email handling 
             - https://www.saasstarterkit.com/ 
+                - Billing: Stripe 
+                - Documentation: Good // mostly flushed out // https://docs.saasstarterkit.com/docs/intro/welcome/
+                - Deployment: on your own 
+                - Databases: relational (postgres) and non-relational (mongoDB) 
                 - Pros: ML example buil in; on-boarding; docker; stripe; AWS APIs; 
         - Paid:
             - https://bedrock.mxstbr.com/ (396 p/project) 
