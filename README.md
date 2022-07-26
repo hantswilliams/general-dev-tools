@@ -139,6 +139,24 @@
     - Superset 
     - Streamlit 
         - Streamlit with Sweetviz - https://discuss.streamlit.io/t/this-is-how-to-use-sweetviz-with-streamlit/10897 
+- SaaS starter kits 
+    - Next JS 
+        - Enterprise: https://nextlessjs.com/
+	- Free (same author): https://github.com/ixartz/Next-js-Boilerplate 
+    - Codebase generator (you get to choose backend, frontend framework, deployemnt, etc...) 
+        - https://divjoy.com/ 
+    - https://saasrock.com/ 
+    - https://serverless.page/
+    - https://bedrock.mxstbr.com/
+    - https://rocketapp.me/
+    - https://reactapp.dev/
+    - https://usegravity.app/
+    - https://docs.usegravity.app/
+    - https://shipsaas.com/
+    - Free
+  	- https://github.com/async-labs/saas 
+	- https://github.com/Saas-Starter-Kit/SAAS-Starter-Kit-Pro
+	- https://nextacular.co/ (https://github.com/nextacular/nextacular)  
 - Low Code / No code
     - Backend
         - Supabase
@@ -314,6 +332,8 @@
     - ORACLE - https://www.oracle.com/cloud/free/#always-free  
     - VERCEL - has always free 
     - HEROKU 
+
+
 
 ## Training and General Ed
 
