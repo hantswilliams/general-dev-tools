@@ -161,7 +161,9 @@
     - Hants Ordering: 
         - Free: 
             - https://nextacular.co/
+                - Pros: multi-domain; DB -> relational; teams + workspaces; strip; tailwind; email handling 
             - https://www.saasstarterkit.com/ 
+                - Pros: ML example buil in; on-boarding; docker; stripe; AWS APIs; 
         - Paid:
             - https://bedrock.mxstbr.com/ (396 p/project) 
             - https://serverless.page/ (199 lifetime) 
