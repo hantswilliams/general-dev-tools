@@ -145,18 +145,29 @@
 	- Free (same author): https://github.com/ixartz/Next-js-Boilerplate 
     - Codebase generator (you get to choose backend, frontend framework, deployemnt, etc...) 
         - https://divjoy.com/ 
-    - https://saasrock.com/ 
-    - https://serverless.page/
-    - https://bedrock.mxstbr.com/
-    - https://rocketapp.me/
-    - https://reactapp.dev/
-    - https://usegravity.app/
-    - https://docs.usegravity.app/
-    - https://shipsaas.com/
+    - Other paid:
+        - https://saasrock.com/ 
+        - https://serverless.page/
+        - https://bedrock.mxstbr.com/
+        - https://rocketapp.me/
+        - https://reactapp.dev/
+        - https://usegravity.app/
+        - https://docs.usegravity.app/
+        - https://shipsaas.com/
     - Free
-  	- https://github.com/async-labs/saas 
-	- https://github.com/Saas-Starter-Kit/SAAS-Starter-Kit-Pro
-	- https://nextacular.co/ (https://github.com/nextacular/nextacular)  
+        - https://github.com/async-labs/saas 
+        - https://github.com/Saas-Starter-Kit/SAAS-Starter-Kit-Pro
+        - https://nextacular.co/ (https://github.com/nextacular/nextacular)  
+    - Hants Ordering: 
+        - Free: 
+            - https://nextacular.co/
+            - https://www.saasstarterkit.com/ 
+        - Paid:
+            - https://bedrock.mxstbr.com/ (396 p/project) 
+            - https://serverless.page/ (199 lifetime) 
+            - https://reactapp.dev/ (19 lifetime) 
+            - https://saasrock.com/ (149 lifetime) 
+            - https://nextlessjs.com/ (699 p/project) 
 - Low Code / No code
     - Backend
         - Supabase
