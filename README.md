@@ -390,7 +390,7 @@
 		- https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/readings/python-review.pdf
 		- https://stanfordpython.com/#/lectures
 		- Stanford: https://stanfordpython.com/lecture/lecture-2-full.pdf 
-		- Cloud computing intro: http://web.stanford.edu/class/cs349d/
+		- Cloud computing intro: https://web.stanford.edu/class/cs349d/docs/L01_overview.pdf
     	- Harvard: 
     		- http://tdc-www.harvard.edu/Python.pdf
     	- UCSF: 
