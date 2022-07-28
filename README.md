@@ -365,6 +365,13 @@
 
 ## Training and General Ed
 
+- Resources 
+    - Blogs
+        - https://www.chubbydeveloper.com/
+        - Medium 
+    - Podcasts: 
+
+
 - Training and learning stuff: 
     - Arch design / good book - https://bytebytego.com/ - system design the big archcive - https://media-exp2.licdn.com/dms/document/C561FAQHBrAeW02s_yw/feedshare-document-pdf-analyzed/0/1655057292746?e=1655942400&v=beta&t=PhyXPS-R-LcFIPYLrkfgiEXoiLKxNhSwIRg2nlClaSA  
     - Quick read on architecture -> https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2 
