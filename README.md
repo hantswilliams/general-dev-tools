@@ -246,7 +246,11 @@
 		- https://github.com/CyberSecurityUP/Awesome-Cloud-PenTest
 		- https://github.com/CyberSecurityUP/Awesome-PenTest-Practice
 
-
+- CAAS (cloud as a service?): 
+    - my own (based on pulumi and aws): 
+    - Openstack: https://www.openstack.org/software/
+    - Cloudstack: https://cloudstack.apache.org/ 
+    - OpenNebula: https://opennebula.io/evaluate-opennebula/#try_now 
 - IAAS:
     - Pulumi 
         - https://betterprogramming.pub/pulumi-a-true-infrastructure-as-code-paradigm-ac07c530e219 
@@ -254,6 +258,8 @@
         - Infracost // https://github.com/infracost/infracost 
         - Brainbooard - automatically create terraform // https://www.brainboard.co/ 
         - Checkgov - Checkov - looks for config errors 
+    - Ansible 
+    	- playbook best examples: https://github.com/ansible/ansible-examples 
 - Data stacks 
     - Article - https://www.datafold.com/blog/the-modern-data-stack-open-source-edition 
     - Github - good list - > https://github.com/victorcouste/data-tools#ingestion 
