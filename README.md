@@ -259,6 +259,7 @@
         - Brainbooard - automatically create terraform // https://www.brainboard.co/ 
         - Checkgov - Checkov - looks for config errors 
     - Ansible 
+        - devOps examples: https://github.com/geerlingguy/ansible-for-devops
     	- playbook best examples: https://github.com/ansible/ansible-examples 
 - Data stacks 
     - Article - https://www.datafold.com/blog/the-modern-data-stack-open-source-edition 
