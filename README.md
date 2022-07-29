@@ -327,6 +327,7 @@
             - https://github.com/benfred/implicit
     - Computer Vision
     	- Text to Pictures -> https://github.com/lucidrains/DALLE2-pytorch
+    	- Text to Picture (Free) -> https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image
     	- Image augmentation (FB) -> https://github.com/facebookresearch/AugLy 
     	- Bunch of random faces for training -> https://github.com/microsoft/FaceSynthetics 
     	- Simple facial recognition -> https://github.com/ageitgey/face_recognition 
