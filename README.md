@@ -400,6 +400,7 @@
 
     - Python Basics / Intro level 
     	- Official Python: https://bugs.python.org/file47781/Tutorial_EDIT.pdf
+	- Good jupyter notebooks for learning // https://github.com/milaan9?tab=repositories (02_python_datatypes; 04_python_dictionaries)
     	- Stanford: 
     		- https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1206/lectures/4-Variables/4-Variables.pdf
 		- https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/readings/python-review.pdf
