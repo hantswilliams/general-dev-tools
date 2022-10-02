@@ -398,7 +398,12 @@
         - SQL Indexing for Devs - Indexing is an important concept for making SQL queries more efficient. This blog series provides a good introduction (https://lnkd.in/egBCqJPa)
         - SQL Zoo - Another interactive tutorial (https://lnkd.in/eeGAxE7q)
         - The SQL Tutorial for Data Analysis - Another great tutorial that segments topics by beginner, intermediate, and advanced (https://lnkd.in/eUq7VvMp)
-
+      - Other sql to review - 
+	- 1.  Databases & SQL for DS - IBM(https://lnkd.in/gjkZBR3Z)
+	- 2.  Learn SQL Basics for Ds -(https://lnkd.in/g2enw-BP)
+	- 3.  SQL Cookbook - O'Reilly
+	- 4.  SQL 57 Practice Problems – Sylvia Vasilik
+	- 5.  SQL for Data Analytics – by Packt     
     - Python Basics / Intro level 
     	- Official Python: https://bugs.python.org/file47781/Tutorial_EDIT.pdf
 	    - Pandas tutorials: https://pandastutor.com/index.html
