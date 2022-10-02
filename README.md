@@ -399,11 +399,11 @@
         - SQL Zoo - Another interactive tutorial (https://lnkd.in/eeGAxE7q)
         - The SQL Tutorial for Data Analysis - Another great tutorial that segments topics by beginner, intermediate, and advanced (https://lnkd.in/eUq7VvMp)
       - Other sql to review - 
-        - Databases & SQL for DS - IBM(https://lnkd.in/gjkZBR3Z)
-	- Learn SQL Basics for Ds -(https://lnkd.in/g2enw-BP)
-	- SQL Cookbook - O'Reilly
-	- SQL 57 Practice Problems – Sylvia Vasilik
-	- SQL for Data Analytics – by Packt     
+        - Databases & SQL for DS - IBM - https://www.coursera.org/learn/sql-data-science
+        - Learn SQL Basics for Ds - https://www.coursera.org/specializations/learn-sql-basics-data-science
+        - SQL Cookbook - O'Reilly
+        - SQL 57 Practice Problems – Sylvia Vasilik
+        - SQL for Data Analytics – by Packt     
     - Python Basics / Intro level 
     	- Official Python: https://bugs.python.org/file47781/Tutorial_EDIT.pdf
 	    - Pandas tutorials: https://pandastutor.com/index.html
@@ -425,4 +425,20 @@
     		- https://courses.cs.duke.edu/compsci260/fall14/resources/python.tutorial.1.2014.pdf
     	- Emertxe Information Technologies: https://www.slideshare.net/EmertxeSlides/presentations/5
     		- Datatypes: https://www.slideshare.net/EmertxeSlides/python-data-types 
+    	- Other python to review: 
+    	  - 2022 Complete Python Bootcamp - https://www.udemy.com/course/complete-python-bootcamp
+    	  - Complete Python Developer - https://www.udemy.com/course/complete-python-developer-zero-to-mastery
+    	  - Python Crash Course – 2nd Edition book by Eric Matthews
+    	  - Python Cookbook: Recipes for Mastering Python 3 by O’Reilly
+    	  - Elements of Programming Interviews in Python: The insider’s Guide by Adnan, Amit
+
+    - stats to review: 
+      - Intro to Statistics - https://www.udacity.com/course/intro-to-statistics--st101
+      - Intro to Inferential Statistics - https://www.udacity.com/course/intro-to-inferential-statistics--ud201
+      - Statistics and probability by Khan Academy - https://www.khanacademy.org/math/statistics-probability
+      - Statistics in Plain English by Timothi C Urdan
+      - Head First Statistics: A Brain-Friendly Guide by Dawn Griffiths
+      - ISLR
+      - ESLR        
+      - blog - [https://lnkd.in/gpYNgFBn](https://ashington.medium.com/)
 
