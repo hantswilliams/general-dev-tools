@@ -126,6 +126,8 @@
         - https://github.com/ml-tooling/best-of-jupyter#notebook-environments 
 - Statistics and Data Manipulation
     - Summary Statistics - Python Sidecar - https://levelup.gitconnected.com/sidetable-an-efficient-tool-to-summarize-pandas-dataframe-330958528a82 
+    - Test selection
+    	- http://www.sciences.ch/tmp/data_science_map/MindMap_Statistical_Tests_EN_2022_06_22_v0_2_r1230.html 
     - Dates 
         - Holidays / etc… https://danilzherebtsov.medium.com/ultimate-python-dateparser-with-holidays-paydays-and-all-the-good-stuff-fffe270a236 
             - https://verstack.readthedocs.io/en/latest/#dateparser 
@@ -133,10 +135,12 @@
         - https://unit8co.github.io/darts/index.html / Darts 
     - Pinguin - stats - https://github.com/raphaelvallat/pingouin 
     - Repeated Measures (highly reputable professor): https://www.drizopoulos.com/courses/EMC/CE08.pdf
+    - Some of the best book(s)
+    	- Handbook of Parametric and Nonparametric Statistical Procedures, Fifth Edition
     - Data checks/schema/types:
     	- https://pandera.readthedocs.io/en/stable/schema_inference.html 
-	- https://pydantic-docs.helpmanual.io/
-	- https://mypy.readthedocs.io/en/stable/index.html
+    	- https://pydantic-docs.helpmanual.io/
+    	- https://mypy.readthedocs.io/en/stable/index.html
 - Linux 
     - Command cheetsheets
     	- xmind: https://www.xmind.net/m/WwtB/
