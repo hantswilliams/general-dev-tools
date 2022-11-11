@@ -324,6 +324,7 @@
             - NLP: https://github.com/balavenkatesh3322/NLP-pretrained-model 
             - CV: https://github.com/balavenkatesh3322/CV-pretrained-model 
     - AutoML
+        - MLJar
         - https://auto.gluon.ai/stable/index.html 
         - http://epistasislab.github.io/tpot/ 
         - https://github.com/mljar/mljar-supervised 
@@ -334,6 +335,24 @@
         - Collaborative
             - Good walkthrough of collaborative - https://sunjackson.github.io/2016/05/30/3cca3bba88363e21bbe6e536e4178018/ 
             - https://github.com/benfred/implicit
+
+    - Session Based Recommendations 
+    	- Competition: https://recsys.acm.org/challenges/, http://www.recsyschallenge.com/2022/
+    	- Python Notebooks for Session-based:
+    		- NextItNet, GRU4Rec, Caser https://github.com/microsoft/recommenders/blob/main/examples/00_quick_start/sequential_recsys_amazondataset.ipynb
+    		- SR-GNN https://colab.research.google.com/drive/1XwQ0njqSZL8vbHJMnRRHlH4ar0kYYFVz?usp=sharing
+    		- SASRec https://github.com/microsoft/recommenders/blob/main/examples/00_quick_start/sasrec_amazon.ipynb
+    		- Transformer4Rec https://github.com/NVIDIA-Merlin/Transformers4Rec/blob/main/examples/tutorial/03-Session-based-recsys.ipynb
+    	- Python Libraries for Session-based:
+    		- https://recbole.io/docs/user_guide/model_intro.html#sequential-recommendation
+    		- https://github.com/maciejkula/spotlight
+    		- https://github.com/NVIDIA-Merlin/Transformers4Rec
+    		- https://github.com/microsoft/recommenders
+	
+		
+
+
+
     - Computer Vision
     	- Text to Pictures -> https://github.com/lucidrains/DALLE2-pytorch
     	- Text to Picture (Free) -> https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image
