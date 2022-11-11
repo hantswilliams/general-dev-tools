@@ -133,6 +133,10 @@
         - https://unit8co.github.io/darts/index.html / Darts 
     - Pinguin - stats - https://github.com/raphaelvallat/pingouin 
     - Repeated Measures (highly reputable professor): https://www.drizopoulos.com/courses/EMC/CE08.pdf
+    - Data checks/schema/types:
+    	- https://pandera.readthedocs.io/en/stable/schema_inference.html 
+	- https://pydantic-docs.helpmanual.io/
+	- https://mypy.readthedocs.io/en/stable/index.html
 - Linux 
     - Command cheetsheets
     	- xmind: https://www.xmind.net/m/WwtB/
