@@ -218,7 +218,10 @@
         - https://cal.com 
 - Documentation
     - Docusaurus - https://docusaurus.io 
-    - Docz - https://www.docz.site       
+    - Docz - https://www.docz.site
+    - API documentation 
+        - readme.com / https://docs.readme.com/ 
+	- redoc (redocly) / https://redocly.com/ -  https://github.com/Redocly/redoc
 - UUID - url friendly
     - https://javascript.plainenglish.io/introducing-a-url-friendly-unique-identifier-nanoid-fbf4d2162322 
 - Search tools: 
