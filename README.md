@@ -10,6 +10,30 @@ A curated collection of development tools, libraries, services, and learning res
 
 ---
 
+## Ongoing Reading — Medium Lists
+
+Curated reading lists I maintain on Medium:
+
+- [AI / ML](https://medium.com/@hantsawilliams/list/aiml-related-b3bb02fe4ba3)
+- [LLMs](https://medium.com/@hantsawilliams/list/llms-eb59cf5ccace)
+- [Data Governance](https://medium.com/@hantsawilliams/list/data-governance-4b8035857ace)
+- [Data Storage](https://medium.com/@hantsawilliams/list/data-storage-d884ff6c9017)
+- [General Reading List](https://medium.com/@hantsawilliams/list/reading-list)
+
+## Podcasts
+
+Regular rotation — a mix of AI, security, and Python:
+
+| Podcast | Cadence | Length | Focus |
+| --- | --- | --- | --- |
+| [The AI Daily Brief](https://podcasts.apple.com/us/podcast/the-ai-daily-brief-artificial-intelligence-news/id1680633614) | Daily | ~15 min | AI news |
+| [NVIDIA AI Podcast](https://podcasts.apple.com/us/podcast/nvidia-ai-podcast/id1186480811) | Weekly | ~30 min | AI applications |
+| [Cybersecurity Headlines](https://podcasts.apple.com/us/podcast/cybersecurity-headlines/id1527478719) | Daily | ~5 min | Security news |
+| [Python Bytes](https://podcasts.apple.com/us/podcast/python-bytes/id1173690032) | Weekly | ~30 min | Python ecosystem |
+| [Darknet Diaries](https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485) | Monthly | 1–2 hr | Hacking / attack stories |
+
+---
+
 ## 1. Data Platform
 
 ### Databases
