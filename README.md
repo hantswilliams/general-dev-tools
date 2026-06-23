@@ -1,4 +1,4 @@
-# General Dev Tools.
+# General Dev Tools
 
 A curated collection of development tools, libraries, services, and learning resources I use, like, or want to explore.
 
